@@ -1,0 +1,62 @@
+[
+  {
+    "input": "antenna-ZDN-G1xBWHY-unsplash.jpg",
+    "output": "antenna-ZDN-G1xBWHY-unsplash__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "antenna-ohNCIiKVT1g-unsplash.jpg",
+    "output": "antenna-ohNCIiKVT1g-unsplash__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "asia-culturecenter-57oPg_ksI4k-unsplash.jpg",
+    "output": "asia-culturecenter-57oPg_ksI4k-unsplash.jpg",
+    "style": "none"
+  },
+  {
+    "input": "austin-distel-rxpThOwuVgE-unsplash.jpg",
+    "output": "austin-distel-rxpThOwuVgE-unsplash__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "evangeline-shaw-BdV23FLkmxQ-unsplash.jpg",
+    "output": "evangeline-shaw-BdV23FLkmxQ-unsplash__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "images.jpeg",
+    "output": "images.jpeg",
+    "style": "none"
+  },
+  {
+    "input": "m-accelerator-yTsy3PYFPtc-unsplash.jpg",
+    "output": "m-accelerator-yTsy3PYFPtc-unsplash__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "photo-1492684223066-81342ee5ff30.jpeg",
+    "output": "photo-1492684223066-81342ee5ff30__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "photo-1527529482837-4698179dc6ce.jpeg",
+    "output": "photo-1527529482837-4698179dc6ce.jpeg",
+    "style": "none"
+  },
+  {
+    "input": "priscilla-du-preez-Q7wGvnbuwj0-unsplash.jpg",
+    "output": "priscilla-du-preez-Q7wGvnbuwj0-unsplash__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "priscilla-du-preez-W3SEyZODn8U-unsplash.jpg",
+    "output": "priscilla-du-preez-W3SEyZODn8U-unsplash__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "product-school-nOvIa_x_tfo-unsplash.jpg",
+    "output": "product-school-nOvIa_x_tfo-unsplash.jpg",
+    "style": "none"
+  }
+]
