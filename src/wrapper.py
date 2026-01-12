@@ -14,7 +14,7 @@ Flow:
 # ---------- MUST BE FIRST ----------
 from dotenv import load_dotenv
 
-from src.video_gen.create_slideshow import run_create_slideshow
+# from src.video_gen.create_slideshow import run_create_slideshow
 
 load_dotenv()  # <-- FIX: load env BEFORE any OpenAI client is created
 # ----------------------------------
@@ -40,7 +40,7 @@ VIDEOS_DIR = LOCAL_ROOT / "generated_videos"
 from src.video_gen.photo_curator import run_curate
 from src.video_gen.styled_photo_generator import run_style
 # from src.video_gen.create_slideshow import run_create_slideshow
-from src.video_gen.generate_veo_video import run_generate_video
+# from src.video_gen.generate_veo_video import run_generate_video
 
 
 def run_cmd(cmd: list[str]) -> None:
@@ -81,12 +81,12 @@ def main():
     sync_remote_to_local()
     ensure_dirs()
 
-    # print("[2] Agent1: Curator")
-    # run_curate(str(LOCAL_ROOT), str(CURATED_DIR))
-    #
-    # print("[3] Agent2: Stylist")
-    # run_style(str(CURATED_DIR), str(STYLED_DIR))
-    #
+    print("[2] Agent1: Curator")
+    run_curate(str(LOCAL_ROOT), str(CURATED_DIR))
+
+    print("[3] Agent2: Stylist")
+    run_style(str(CURATED_DIR), str(STYLED_DIR))
+
     print("[4] Agent3: Slideshow")
     # run_create_slideshow(
     #     curated_photos_dir=str(CURATED_DIR),

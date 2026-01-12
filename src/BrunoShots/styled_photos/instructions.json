@@ -1,57 +1,517 @@
 [
   {
-    "input": "antenna-ZDN-G1xBWHY-unsplash.jpg",
-    "output": "antenna-ZDN-G1xBWHY-unsplash__styled.png",
+    "input": "capture_only_20260112_054136_452494.jpg",
+    "output": "capture_only_20260112_054136_452494__styled.png",
     "style": "ghibli"
   },
   {
-    "input": "antenna-ohNCIiKVT1g-unsplash.jpg",
-    "output": "antenna-ohNCIiKVT1g-unsplash__styled.png",
+    "input": "capture_only_20260112_054138_643608.jpg",
+    "output": "capture_only_20260112_054138_643608__styled.png",
     "style": "1980s"
   },
   {
-    "input": "asia-culturecenter-57oPg_ksI4k-unsplash.jpg",
-    "output": "asia-culturecenter-57oPg_ksI4k-unsplash.jpg",
+    "input": "capture_only_20260112_054140_817029.jpg",
+    "output": "capture_only_20260112_054140_817029.jpg",
     "style": "none"
   },
   {
-    "input": "austin-distel-rxpThOwuVgE-unsplash.jpg",
-    "output": "austin-distel-rxpThOwuVgE-unsplash__styled.png",
+    "input": "capture_only_20260112_054143_011756.jpg",
+    "output": "capture_only_20260112_054143_011756__styled.png",
     "style": "ghibli"
   },
   {
-    "input": "evangeline-shaw-BdV23FLkmxQ-unsplash.jpg",
-    "output": "evangeline-shaw-BdV23FLkmxQ-unsplash__styled.png",
+    "input": "capture_only_20260112_054145_185900.jpg",
+    "output": "capture_only_20260112_054145_185900__styled.png",
     "style": "1980s"
   },
   {
-    "input": "images.jpeg",
-    "output": "images.jpeg",
+    "input": "capture_only_20260112_054151_707604.jpg",
+    "output": "capture_only_20260112_054151_707604.jpg",
     "style": "none"
   },
   {
-    "input": "m-accelerator-yTsy3PYFPtc-unsplash.jpg",
-    "output": "m-accelerator-yTsy3PYFPtc-unsplash__styled.png",
+    "input": "capture_only_20260112_054153_915467.jpg",
+    "output": "capture_only_20260112_054153_915467__styled.png",
     "style": "ghibli"
   },
   {
-    "input": "photo-1492684223066-81342ee5ff30.jpeg",
-    "output": "photo-1492684223066-81342ee5ff30__styled.png",
+    "input": "capture_only_20260112_054156_087231.jpg",
+    "output": "capture_only_20260112_054156_087231__styled.png",
     "style": "1980s"
   },
   {
-    "input": "photo-1527529482837-4698179dc6ce.jpeg",
-    "output": "photo-1527529482837-4698179dc6ce.jpeg",
+    "input": "capture_only_20260112_054227_518303.jpg",
+    "output": "capture_only_20260112_054227_518303.jpg",
     "style": "none"
   },
   {
-    "input": "priscilla-du-preez-W3SEyZODn8U-unsplash.jpg",
-    "output": "priscilla-du-preez-W3SEyZODn8U-unsplash__styled.png",
+    "input": "capture_only_20260112_054231_892496.jpg",
+    "output": "capture_only_20260112_054231_892496__styled.png",
     "style": "ghibli"
   },
   {
-    "input": "product-school-nOvIa_x_tfo-unsplash.jpg",
-    "output": "product-school-nOvIa_x_tfo-unsplash__styled.png",
+    "input": "capture_only_20260112_054234_065712.jpg",
+    "output": "capture_only_20260112_054234_065712__styled.png",
     "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065521_678434.jpg",
+    "output": "capture_only_20260112_065521_678434.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065522_695007.jpg",
+    "output": "capture_only_20260112_065522_695007__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065523_711164.jpg",
+    "output": "capture_only_20260112_065523_711164__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065524_727312.jpg",
+    "output": "capture_only_20260112_065524_727312.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065525_752375.jpg",
+    "output": "capture_only_20260112_065525_752375__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065527_800814.jpg",
+    "output": "capture_only_20260112_065527_800814__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065528_825001.jpg",
+    "output": "capture_only_20260112_065528_825001.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065530_874839.jpg",
+    "output": "capture_only_20260112_065530_874839__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065534_974993.jpg",
+    "output": "capture_only_20260112_065534_974993__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065537_029049.jpg",
+    "output": "capture_only_20260112_065537_029049.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065538_054153.jpg",
+    "output": "capture_only_20260112_065538_054153__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065539_079128.jpg",
+    "output": "capture_only_20260112_065539_079128__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065541_127744.jpg",
+    "output": "capture_only_20260112_065541_127744.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065542_151947.jpg",
+    "output": "capture_only_20260112_065542_151947__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065543_175995.jpg",
+    "output": "capture_only_20260112_065543_175995__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065550_350013.jpg",
+    "output": "capture_only_20260112_065550_350013.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065551_380663.jpg",
+    "output": "capture_only_20260112_065551_380663__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065600_562208.jpg",
+    "output": "capture_only_20260112_065600_562208__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065601_590685.jpg",
+    "output": "capture_only_20260112_065601_590685.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065607_738330.jpg",
+    "output": "capture_only_20260112_065607_738330__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065608_762679.jpg",
+    "output": "capture_only_20260112_065608_762679__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065610_810107.jpg",
+    "output": "capture_only_20260112_065610_810107.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065612_863917.jpg",
+    "output": "capture_only_20260112_065612_863917__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065615_937097.jpg",
+    "output": "capture_only_20260112_065615_937097__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065616_968046.jpg",
+    "output": "capture_only_20260112_065616_968046.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065617_991827.jpg",
+    "output": "capture_only_20260112_065617_991827__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065619_015778.jpg",
+    "output": "capture_only_20260112_065619_015778__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065620_039834.jpg",
+    "output": "capture_only_20260112_065620_039834.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065621_063529.jpg",
+    "output": "capture_only_20260112_065621_063529__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065622_096520.jpg",
+    "output": "capture_only_20260112_065622_096520__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065623_120749.jpg",
+    "output": "capture_only_20260112_065623_120749.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065624_144565.jpg",
+    "output": "capture_only_20260112_065624_144565__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065626_192904.jpg",
+    "output": "capture_only_20260112_065626_192904__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065629_275119.jpg",
+    "output": "capture_only_20260112_065629_275119.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065630_299436.jpg",
+    "output": "capture_only_20260112_065630_299436__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065632_351635.jpg",
+    "output": "capture_only_20260112_065632_351635__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065636_452693.jpg",
+    "output": "capture_only_20260112_065636_452693.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065637_485289.jpg",
+    "output": "capture_only_20260112_065637_485289__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065640_558456.jpg",
+    "output": "capture_only_20260112_065640_558456__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065642_618102.jpg",
+    "output": "capture_only_20260112_065642_618102.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065643_642812.jpg",
+    "output": "capture_only_20260112_065643_642812__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065644_667266.jpg",
+    "output": "capture_only_20260112_065644_667266__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065645_691675.jpg",
+    "output": "capture_only_20260112_065645_691675.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065648_769768.jpg",
+    "output": "capture_only_20260112_065648_769768__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065729_785759.jpg",
+    "output": "capture_only_20260112_065729_785759__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065731_833893.jpg",
+    "output": "capture_only_20260112_065731_833893.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065733_884314.jpg",
+    "output": "capture_only_20260112_065733_884314__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065734_908832.jpg",
+    "output": "capture_only_20260112_065734_908832__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065735_933142.jpg",
+    "output": "capture_only_20260112_065735_933142.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065737_979144.jpg",
+    "output": "capture_only_20260112_065737_979144__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065748_229143.jpg",
+    "output": "capture_only_20260112_065748_229143__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065749_257512.jpg",
+    "output": "capture_only_20260112_065749_257512.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065755_410329.jpg",
+    "output": "capture_only_20260112_065755_410329__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065757_459529.jpg",
+    "output": "capture_only_20260112_065757_459529__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065758_484054.jpg",
+    "output": "capture_only_20260112_065758_484054.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065759_512243.jpg",
+    "output": "capture_only_20260112_065759_512243__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065800_536475.jpg",
+    "output": "capture_only_20260112_065800_536475__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065808_729926.jpg",
+    "output": "capture_only_20260112_065808_729926.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065809_755147.jpg",
+    "output": "capture_only_20260112_065809_755147__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065810_779774.jpg",
+    "output": "capture_only_20260112_065810_779774__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065811_804908.jpg",
+    "output": "capture_only_20260112_065811_804908.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065812_827201.jpg",
+    "output": "capture_only_20260112_065812_827201__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065813_852113.jpg",
+    "output": "capture_only_20260112_065813_852113__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065814_876487.jpg",
+    "output": "capture_only_20260112_065814_876487.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065815_900826.jpg",
+    "output": "capture_only_20260112_065815_900826__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065816_925095.jpg",
+    "output": "capture_only_20260112_065816_925095__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065817_949647.jpg",
+    "output": "capture_only_20260112_065817_949647.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065821_029536.jpg",
+    "output": "capture_only_20260112_065821_029536__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065822_053886.jpg",
+    "output": "capture_only_20260112_065822_053886__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065824_102641.jpg",
+    "output": "capture_only_20260112_065824_102641.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065825_132629.jpg",
+    "output": "capture_only_20260112_065825_132629__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065826_156816.jpg",
+    "output": "capture_only_20260112_065826_156816__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065828_205594.jpg",
+    "output": "capture_only_20260112_065828_205594.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065829_229871.jpg",
+    "output": "capture_only_20260112_065829_229871__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065830_255598.jpg",
+    "output": "capture_only_20260112_065830_255598__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065832_303869.jpg",
+    "output": "capture_only_20260112_065832_303869.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065833_328100.jpg",
+    "output": "capture_only_20260112_065833_328100__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065834_352488.jpg",
+    "output": "capture_only_20260112_065834_352488__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065836_404889.jpg",
+    "output": "capture_only_20260112_065836_404889.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065838_453714.jpg",
+    "output": "capture_only_20260112_065838_453714__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065839_478011.jpg",
+    "output": "capture_only_20260112_065839_478011__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065840_511310.jpg",
+    "output": "capture_only_20260112_065840_511310.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065843_584049.jpg",
+    "output": "capture_only_20260112_065843_584049__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065844_607709.jpg",
+    "output": "capture_only_20260112_065844_607709__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065846_654605.jpg",
+    "output": "capture_only_20260112_065846_654605.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065848_686385.jpg",
+    "output": "capture_only_20260112_065848_686385__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065850_718349.jpg",
+    "output": "capture_only_20260112_065850_718349__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065851_742613.jpg",
+    "output": "capture_only_20260112_065851_742613.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065852_765652.jpg",
+    "output": "capture_only_20260112_065852_765652__styled.png",
+    "style": "ghibli"
+  },
+  {
+    "input": "capture_only_20260112_065853_789887.jpg",
+    "output": "capture_only_20260112_065853_789887__styled.png",
+    "style": "1980s"
+  },
+  {
+    "input": "capture_only_20260112_065854_814229.jpg",
+    "output": "capture_only_20260112_065854_814229.jpg",
+    "style": "none"
+  },
+  {
+    "input": "capture_only_20260112_065855_838472.jpg",
+    "output": "capture_only_20260112_065855_838472__styled.png",
+    "style": "ghibli"
   }
 ]

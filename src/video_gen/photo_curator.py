@@ -26,18 +26,9 @@ def is_interesting(image_path: Path) -> bool:
         image_data = base64.b64encode(f.read()).decode()
 
     prompt = (
-        "Is this a good event photo worth keeping for a highlight video?\n\n"
+        "Is this a good rover photo worth keeping ?\n\n"
+        "please slightly biased towards keeping it."
         "Answer Yes ONLY if:\n"
-        "- The subject is clear and in focus\n"
-        "- Faces or key event elements are visible\n"
-        "- The moment feels meaningful or memorable\n"
-        "- Lighting and composition are acceptable\n\n"
-        "Answer No if ANY of the following:\n"
-        "- Blurry or out of focus\n"
-        "- Too dark, too bright, or washed out\n"
-        "- Accidental or irrelevant shot (floor, wall, hand, random object)\n"
-        "- Duplicate or near-duplicate\n"
-        "- Poor expressions (eyes closed, awkward pose)\n\n"
         "Reply with ONLY one word:\n"
         "Yes or No"
     )
@@ -79,8 +70,14 @@ def run_curate(folder1: str, folder2: str):
 
     for img in list_images(folder1):
         print("[Curator] checking:", img.name)
-        if is_interesting(img):
-            shutil.copy2(img, Path(folder2) / img.name)
+        try:
+            if is_interesting(img):
+                print("[Curator] interesting:", img.name)
+                shutil.copy2(img, Path(folder2) / img.name)
+            print("[Curator] Not Inreesting interesting:", img.name)
+        except Exception as e:
+            print(e)
+
 
 
 if __name__ == "__main__":
